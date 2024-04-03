@@ -1,0 +1,41 @@
+.container {
+  margin-top: -152px;
+
+  background-color: #f3f4f6;
+
+
+}
+
+.logo {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  cursor: pointer;
+}
+
+.refrotext {
+  position: relative;
+  left: 70px;
+  bottom: 20px;
+  cursor: pointer;
+
+}
+
+.searchBar {
+  position: relative;
+  left: 10px;
+}
+
+.boxtext {
+  font-size: 15px;
+}
+
+.meanu1 {
+  cursor: pointer;
+}
+
+.lastmenu {
+  cursor: pointer;
+  position: relative;
+
+}
